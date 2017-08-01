@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973761651471",
+    "firebase_url": "https://project-kukickers.firebaseio.com",
+    "project_id": "project-kukickers",
+    "storage_bucket": "project-kukickers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973761651471:android:d6e4e055a7b2b9f8",
+        "android_client_info": {
+          "package_name": "com.grt.rasil.kukickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973761651471-r8aeo72nv0148cdcjf3uu07q5i4kobak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grt.rasil.kukickers",
+            "certificate_hash": "d76671f8cea0a7ca9dfd3ee7471f08cc5df16408"
+          }
+        },
+        {
+          "client_id": "973761651471-ta40bsmv49gsmdjo0ugnsdjtik2k23u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Il0j_ZBkeP1aee5W460CkXyzAIlrGX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973761651471-ta40bsmv49gsmdjo0ugnsdjtik2k23u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
